@@ -1,0 +1,6 @@
+Listing_ID,Host_Name,Price_per_Night,Location,Number_of_Reviews,Review_Score,Minimum_Nights,Availability_365
+101,Alice,120,New York,45,4.5,2,180
+102,Bob,85,Los Angeles,80,4.0,1,300
+103,Carla,200,San Francisco,32,4.8,3,220
+104,David,150,Chicago,22,3.9,2,150
+105,Eva,90,Boston,60,4.2,1,365
